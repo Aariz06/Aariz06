@@ -1,16 +1,13 @@
-## Hi there 👋
+## Aariz Khan
 
-<!--
-**Aariz06/Aariz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity and IT professional in Northern Virginia. CompTIA Security+ and A+.
+Three years securing a multi-site enterprise, vulnerability management, patch
+management, firewalls, Active Directory, AWS.
 
-Here are some ideas to get you started:
+Currently studying **AI security** and **cloud security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm building**
+- [ai-security-lab](https://github.com/Aariz06/ai-security-lab) — hands-on AI and cloud security research
+
+**Interests:** LLM security · cloud security posture · detection engineering
+**Certs:** Security+ · A+ · Network+ (in progress)
