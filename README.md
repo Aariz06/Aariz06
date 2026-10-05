@@ -10,4 +10,4 @@ Currently studying **AI security** and **cloud security**.
 - [ai-security-lab](https://github.com/Aariz06/ai-security-lab) — hands-on AI and cloud security research
 
 **Interests:** LLM security · cloud security posture · detection engineering
-**Certs:** Security+ · A+ · Network+ (in progress)
+**Certs:** Security+ · A+ · CySA+ (in progress)
